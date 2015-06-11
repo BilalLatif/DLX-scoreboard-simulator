@@ -10,3 +10,5 @@ Muhammad Faizan Uddin
 Mubashir Baig
 
 Ali Raza
+
+##The two codes are same except the branch. we've implemented branch in two different ways.
